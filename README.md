@@ -1,2 +1,5 @@
 # test_repo
-This is a test repo
+Código de las prácticas de clase
+
+Pract_u3 contiene el código de las prácticas realizadas con atmega
+
